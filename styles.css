@@ -1,6 +1,6 @@
 #btn {
-    background-color: black;
-    color: white;
+    background-color: #efefef; /* rgb(239,239,239) */
+    color: black;
     border-radius: 5px;
     border: none;
     padding: 10px 20px;
@@ -8,7 +8,6 @@
     cursor: pointer;
     transition: all 0.3s ease; 
 }
-
 
 #btn:hover {
     background-color: yellow;
